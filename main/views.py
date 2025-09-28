@@ -167,12 +167,12 @@ def contact(request):
             'email': 'sayafsaleem@gmail.com',
             'phone': '(587) 341-3258',
             'location': 'Edmonton, AB, Canada',
-            'linkedin': 'https://linkedin.com/in/mohammed-sayaf',  # Update with your actual LinkedIn
+            'linkedin': 'https://www.linkedin.com/in/mohammedsaleemsayaf/',  # Update with your actual LinkedIn
             'github': 'https://github.com/mohammed-sayaf',  # Update with your actual GitHub
             'twitter': '',  # Add if you have Twitter
         },
         'certifications': [
-            'Engineer-in-training with APEGA (Application in progress)',
+            'Engineer-in-training with APEGA',
             'Alberta Class 5 driver\'s license',
             'Construction Safety Training System (CSTS 2020)'
         ]
